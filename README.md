@@ -1,3 +1,3 @@
 # redis-pub-sub
 
-## A simple PUB/SUB in redis
+## A simple Pub/Sub in redis
